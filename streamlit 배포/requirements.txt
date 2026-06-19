@@ -3,3 +3,7 @@ opencv-python
 numpy
 Pillow
 requests
+platform
+matplotlib
+pandas
+matplotlib.pyplot
