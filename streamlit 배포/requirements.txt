@@ -6,4 +6,4 @@ requests
 platform
 matplotlib
 pandas
-matplotlib.pyplot
+sklearn
