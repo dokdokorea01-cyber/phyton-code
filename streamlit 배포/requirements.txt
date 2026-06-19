@@ -1,10 +1,5 @@
 streamlit
-opencv-python
 numpy
-Pillow
-requests
-platform
-matplotlib
 pandas
-sklearn
-plotly
+matplotlib
+scikit-learn
